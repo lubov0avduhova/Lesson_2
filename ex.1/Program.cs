@@ -22,3 +22,4 @@ else
     min = c;
 }
 Console.Write ($"Минимальное число: {min}");
+
